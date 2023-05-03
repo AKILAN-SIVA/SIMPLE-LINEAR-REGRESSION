@@ -1,10 +1,12 @@
 # SIMPLE_LINEAR_REGRESSION
- 
-Install Flask
+
+Brain weight predictionn using Simple Linear Regression
+
+1. Install Flask
 ```
 pip install Flask
 ```
-Run app
+2. Run the app
 ```
-py app.py
+python app.py
 ```
